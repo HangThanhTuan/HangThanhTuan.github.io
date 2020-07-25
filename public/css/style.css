@@ -15,8 +15,8 @@ body {
 
 /*header*/
 
-.navbar-brand {
-    width: 50px;
+.navbar-brand>img {
+    width: 60%;
 }
 
 .navbar-expand-sm {
