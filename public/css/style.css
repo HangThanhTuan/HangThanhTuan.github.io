@@ -17,8 +17,8 @@ body {
 
 .navbar-toggler {
     position: absolute !important;
-    right: -241px !important;
-    top: -50px !important;
+    right: 6px;
+    top: 29px;
 }
 
 .img_img>img {
@@ -1043,7 +1043,7 @@ footer {
         margin-bottom: 15px;
     }
     .h-content {
-        margin: 0px !important;
+        margin-top: 10px !important;
     }
     .white,
     .orange {
