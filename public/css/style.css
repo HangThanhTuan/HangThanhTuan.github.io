@@ -16,9 +16,9 @@ body {
 /*header*/
 
 .navbar-toggler {
-    position: absolute;
-    right: -241px;
-    top: -50px;
+    position: absolute !important;
+    right: -241px !important;
+    top: -50px !important;
 }
 
 .img_img>img {
