@@ -15,6 +15,12 @@ body {
 
 /*header*/
 
+.navbar-toggler {
+    position: absolute;
+    right: -241px;
+    top: -50px;
+}
+
 .img_img>img {
     width: 60%;
 }
