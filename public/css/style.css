@@ -50,7 +50,7 @@ header {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    margin: 0, 50px;
+    margin: 0px 50px;
     min-height: 750px
 }
 
@@ -979,7 +979,7 @@ footer {
 }
 
 .border-bottom {
-    border-bottom: 1px solid rgba(255, 255, 255, 0.);
+    border-bottom: 1px solid rgba(255, 255, 255, 0);
 }
 
 .finish {
