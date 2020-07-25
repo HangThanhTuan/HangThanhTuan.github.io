@@ -15,9 +15,8 @@ body {
 
 /*header*/
 
-.navbar-brand>img {
-    width: 167px;
-    height: 45px;
+.navbar-brand {
+    width: 50px;
 }
 
 .navbar-expand-sm {
