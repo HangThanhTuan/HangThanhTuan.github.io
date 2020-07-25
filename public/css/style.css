@@ -15,6 +15,11 @@ body {
 
 /*header*/
 
+.navbar-brand>img {
+    max-height: 45px;
+    height: auto;
+}
+
 .navbar-expand-sm {
     padding-top: 30px !important;
 }
